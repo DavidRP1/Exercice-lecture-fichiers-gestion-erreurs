@@ -1,0 +1,11 @@
+# Petit fichier
+# de test
+
+
+1
+2
+3
+=TEST
+
+
+print TEST

@@ -1,0 +1,32 @@
+# Fichier un peu plus compliqué
+# Gère un petit budget avec des dépenses
+
+# Dépenses Nicolas
+-100
+20
+30
+=NIC
+
+
+# Dépenses Gabriel
+10
+19.50
+29.50
+=GAB
+
+
+# Dépenses totales
+NIC
+GAB
+=TOTAL
+
+# Vérification de la balance
+TOTAL
+-NIC
+-GAB
+=ZERO
+
+print NIC
+print GAB
+print TOTAL
+print ZERO
